@@ -1,0 +1,41 @@
+# Interactive Dashboard in python 
+This project is POC project to demonstrated creating interactive dashboard using python like tableau and power bi. 
+
+In this project we used below python based visualization library to create dashboard.
+
+streamlit
+
+plotly
+
+metplotlib
+
+pandas
+
+## Pre requisite
+
+python 3.9 and poetry 1.2.0
+
+### How to run project 
+
+```bash
+git clone 
+```
+
+```bash
+poetry install
+```
+#### run py file 
+```bash
+streamlit run .\Interactivedashboard.py --server.port=8282
+```
+
+#### Sample Dashboard images
+
+![plot](relative%20resources/filter_part.png?raw=true)
+
+
+
+
+
+
+
