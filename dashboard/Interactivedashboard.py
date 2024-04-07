@@ -20,8 +20,10 @@ if fl is not None:
     st.write(filename)
     df = pd.read_csv(filename, encoding="ISO-8859-1")
 else:
-    os.chdir(r"C:\Users\91988\Documents\InteractiveDashboard")
-    df = pd.read_csv("Superstore.csv", encoding="ISO-8859-1")
+
+    dirname = os.path.dirname(__file__)
+    filename = os.path.join(dirname, '..','resources\Superstore.csv')
+    df = pd.read_csv(f"{filename}", encoding="ISO-8859-1")
 
 # creating column from order date in order to get datetime picker range for given dataset
 col1, col2 = st.columns((2))
