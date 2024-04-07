@@ -42,6 +42,11 @@ streamlit run .\dashboard\Interactivedashboard.py --server.port=8282
 ![Alt text](https://github.com/vikramsinghbhati/interactiveDashboard/blob/master/resources/timeserise_graph.png)
 
 
+#### App hosted URL
+```bash
+https://interactivedashboard-27pxyeg32xnwe6knfc9b6q.streamlit.app/
+```
+
 
 
 
