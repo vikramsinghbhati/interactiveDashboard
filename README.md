@@ -33,6 +33,18 @@ streamlit run .\Interactivedashboard.py --server.port=8282
 
 ![Alt text](https://github.com/vikramsinghbhati/interactiveDashboard/blob/master/resources/filter_part.png)
 
+![Alt text](https://github.com/vikramsinghbhati/interactiveDashboard/blob/master/resources/segmentwise.png)
+
+![Alt text](https://github.com/vikramsinghbhati/interactiveDashboard/blob/master/resources/scatterplot.png)
+
+![Alt text](https://github.com/vikramsinghbhati/interactiveDashboard/blob/master/resources/timeserise_data_tree.png)
+
+![Alt text](https://github.com/vikramsinghbhati/interactiveDashboard/blob/master/resources/timeserise_graph.png)
+
+
+
+
+
 
 
 
