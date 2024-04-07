@@ -18,7 +18,7 @@ python 3.9 and poetry 1.2.0
 ### How to run project 
 
 ```bash
-git clone 
+git clone https://github.com/vikramsinghbhati/interactiveDashboard.git
 ```
 
 ```bash
@@ -31,7 +31,7 @@ streamlit run .\Interactivedashboard.py --server.port=8282
 
 #### Sample Dashboard images
 
-![plot](relative%20resources/filter_part.png?raw=true)
+![Alt text](https://github.com/vikramsinghbhati/interactiveDashboard/blob/master/resources/filter_part.png)
 
 
 
