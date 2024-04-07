@@ -1,7 +1,7 @@
 # Interactive Dashboard in python 
 This project is POC project to demonstrated creating interactive dashboard using python like tableau and power bi. 
 
-In this project we used below python based visualization library to create dashboard.
+In this project I used below python based visualization library to create dashboard.
 
 streamlit
 
