@@ -26,7 +26,7 @@ poetry install
 ```
 #### run py file 
 ```bash
-streamlit run .\Interactivedashboard.py --server.port=8282
+streamlit run .\dashboard\Interactivedashboard.py --server.port=8282
 ```
 
 #### Sample Dashboard images
