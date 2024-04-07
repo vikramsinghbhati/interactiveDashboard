@@ -22,7 +22,7 @@ if fl is not None:
 else:
 
     dirname = os.path.dirname(__file__)
-    filename = os.path.join(dirname, '..','resources\Superstore.csv')
+    filename = os.path.join(dirname, '..','resources/Superstore.csv')
     df = pd.read_csv(f"{filename}", encoding="ISO-8859-1")
 
 # creating column from order date in order to get datetime picker range for given dataset
